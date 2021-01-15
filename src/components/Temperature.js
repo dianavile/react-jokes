@@ -8,7 +8,6 @@ const Temperature = () => {
     const search = async (e) => {
         if(e.key === 'Enter') {
             const data = await fetch(query);
-
             setWeather(data);
             setQuery(''); 
         }
@@ -23,7 +22,7 @@ const Temperature = () => {
             <br/>
             <input type="text"className="search"  value={query}  
                    onChange={(e) => setQuery(e.target.value)}onKeyPress={search}  
-                   placeholder="Nombre de la ciudad..."
+                   placeholder="Cityname..."
              />
             {weather.main && (
                 <div >
