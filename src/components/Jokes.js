@@ -30,7 +30,7 @@ class Jokes extends Component {
         <div style={{textAlign: 'center'}}>{this.state.jokes}</div> 
         <br/>
         <br/>
-        <button onClick={this.show} style={{color: 'white', fontWeight: 'bold', borderRadius: '4px', backgroundColor:'blue', padding: 4, marginLeft: '30%'}}>Next joke</button>
+        <button onClick={this.show} style={{color: 'white', fontWeight: 'bold', borderRadius: '4px', backgroundColor:'blue', padding: 4, marginLeft: '50%'}}>Next joke</button>
       </div>
     )
   }
