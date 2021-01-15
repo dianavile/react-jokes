@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* TODO: replace with Welcome, when Welcome Component is ready */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')

@@ -4,10 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> Ready to laugh?🤣</h1>
-      {/* Joke comes here */}
-      <p>Joke</p>
-      <button>Next Joke</button>
+      {/* TODO: LAST ADD WELCOME PAGE ON APP- IN INDEX.JS THEN LOAD COMPONENTS*/}
+      {/* TODO: 4 ADD STYLES AND BACKGROUND IMG TO APP */}
+      {/* TODO: 5 ADD TEMPERATURE TO APP */}
     </div>
   );
 }
