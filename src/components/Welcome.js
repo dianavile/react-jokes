@@ -8,7 +8,7 @@ class Welcome extends React.Component {
     };
     render() {
         //add conditional
-        if (this.state.visibleApp == true){
+        if (this.state.visibleApp === true){
             return <div><App /> </div>
         } 
         //add variable
