@@ -2,7 +2,7 @@
 
 ## Demo 
 on [codeSandBox](https://codesandbox.io/s/icy-brook-59bzg)
-![react-jokes]()
+![react-jokes](https://github.com/dianavile/react-jokes/blob/develop/src/assets/react-jokes.JPG)
 
 ## Installation
 - [X] Install with ```npx create-react-app react-jokes```
