@@ -1,3 +1,24 @@
+# react-jokes
+
+## Demo 
+on [codeSandBox](https://codesandbox.io/s/icy-brook-59bzg)
+![react-jokes](https://github.com/dianavile/react-jokes/blob/develop/src/assets/react-jokes.JPG)
+
+## Installation
+- [X] Install with ```npx create-react-app react-jokes```
+
+## Dependencies 
+- [X] Add  ```yarn add axios ```
+
+## Functionalities 
+- [X] Conditional Rendering 
+- [X] REST-API for jokes and weather
+- [X] Async 
+- [X] Welcome page with Routing
+
+## Resources
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
